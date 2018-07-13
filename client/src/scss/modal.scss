@@ -46,7 +46,6 @@ label{
   background-color: #e9ecef;
   border: 1px solid #ced4da;
   border-radius: .25rem;
-  box-shadow: 7px 10px 14px -2px rgba(0, 0, 0, 0.75);
 }
 .input-group-prepend {
   display: -ms-flexbox;
@@ -73,22 +72,13 @@ label{
     border-bottom-left-radius: 0px;
 }
 }
-
-  .form-control {
-    font-family: 'Neuton', serif;
-    font-size: 15px;
-    /* margin-bottom: 43px; */
-    height: 61px;
-  }
 .form-control-lg {
-    font-size: 1.25rem;
-    margin: auto;
     margin-bottom: -27px !important;
     line-height: 3.5;
     border-radius: .3rem;
     font-family: 'Neuton', serif;
     font-size: 15px;
-  
+    height: 61px;
 }
 
 
@@ -107,34 +97,7 @@ label{
   margin-bottom: 5px;
   margin-left: 35px;
 }
-
-h1,
-input {
-  font-family: "Open Sans", Helvetica, sans-serif;
-  width: 154%;
-  height: 30px;
-  margin-left: -48px;
-  border-radius: 10px;
-  border: 1px black solid;
-  box-shadow: 2px 10px 14px -2px rgba(0, 0, 0, 0.75);
-  .inputButton {
-    position: relative;
-    width: 85%;
-    text-align: center !important;
-    height: 50px;
-    padding: 0px !important;
-    display: block;
-    // margin: 30px auto 30px;
-    color: #757575;
-    background-color: #cfd86d;
-    border: none;
-    -webkit-box-shadow: 0 5px 0 #1b998b;
-    box-shadow: 0 5px 0 #cfd86d;
-}
-}
-
 .text-area-style {
-  box-shadow: 0px 10px 14px -2px rgba(0, 0, 0, 0.75);
   border-radius: 5px;
   width: 300px !important;
 }

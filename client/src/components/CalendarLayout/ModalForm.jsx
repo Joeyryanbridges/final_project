@@ -111,6 +111,7 @@ class Form extends React.Component {
             <div className="invalid-feedback">{errors.doctor}</div>
           )}
         </div>
+
         <br />
         <br />
 
